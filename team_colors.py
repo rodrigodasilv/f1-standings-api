@@ -1,0 +1,10 @@
+team_colors_list = {'MERCEDES': '#27F4D2',
+                    'RED BULL RACING': '#3671C6',
+                    'FERRARI': '#E8002D',
+                    'MCLAREN': '#FF8000',
+                    'ALPINE': '#FF87BC',
+                    'RB': '#6692FF',
+                    'ASTON MARTIN': '#229971',
+                    'WILLIAMS': '#64C4FF',
+                    'KICK SAUBER': '#52E252',
+                    'HAAS F1 TEAM': '#B6BABD'}
