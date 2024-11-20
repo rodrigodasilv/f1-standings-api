@@ -5,6 +5,11 @@ import DriverDataCollector
 app = Flask(__name__)
 
 
+@app.route('/')
+def get_main():
+    return 'Try /drivers! :)'
+
+
 @app.route('/drivers')
 def get_standings():
     return DriverDataCollector.get_drivers_data()
