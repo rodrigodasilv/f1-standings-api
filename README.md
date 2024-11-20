@@ -5,8 +5,6 @@
 <h3 align=center>Avaliable endpoints</h3>
 <h4>GET /drivers</h4>
 <p>Returns all drivers in the FIA Formula 1 Championship of the current year with their position, points, name and surname, team, team color (updated 2024) and picture</p>
-<p>Example:</p>
-<p align="center"><img src="https://github.com/rodrigodasilv/f1-standings-api/assets/55567123/9d85f165-a4a1-4bc9-a642-f93b8c70ca83" alt="GET /f1 return" style="width:50%;"/></p>
 
 <h3 align=center>Instalation</h3>
 
